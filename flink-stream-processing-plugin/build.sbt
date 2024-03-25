@@ -11,6 +11,7 @@ libraryDependencies += "org.apache.flink" %% "flink-streaming-scala" % "1.14.2"
 libraryDependencies += "org.apache.flink" %% "flink-clients" % "1.14.2"
 libraryDependencies += "org.apache.flink" %% "flink-connector-kafka" % "1.14.2"
 
+
 libraryDependencies += "io.circe" %% "circe-core" % "0.14.1"
 libraryDependencies += "io.circe" %% "circe-generic" % "0.14.1"
 libraryDependencies += "io.circe" %% "circe-parser" % "0.14.1"
